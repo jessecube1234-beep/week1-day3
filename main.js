@@ -4,7 +4,7 @@ import { renderWeather } from "./components/weatherComponent.js";
 // Weatherbit API key
 
 // Replace with your actual API key
-const API_KEY = "YOUR_API_KEY_HERE"; 
+const API_KEY = "YOUR_API_KEY"; 
 
 document.addEventListener("DOMContentLoaded", () => {
   const form = document.getElementById("search-form");
